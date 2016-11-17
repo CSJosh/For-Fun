@@ -1,2 +1,2 @@
 # For-Fun-
-Coding projects
+Coding projects in C++, Python
